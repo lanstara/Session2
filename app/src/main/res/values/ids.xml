@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="BillPlease" type="id" />
+    <item name="textAmount" type="id" />
+    <item name="editInputAmount" type="id" />
+    <item name="textNumPax" type="id" />
+    <item name="editInputNumPax" type="id" />
+    <item name="tbSVS" type="id" />
+    <item name="tbGST" type="id" />
+    <item name="textDiscount" type="id" />
+    <item name="editInputDisc" type="id" />
+    <item name="rgpayment" type="id" />
+    <item name="bCash" type="id" />
+    <item name="bPaynow" type="id" />
+    <item name="bSplit" type="id" />
+    <item name="bReset" type="id" />
+    <item name="textTotalBill" type="id" />
+    <item name="textEachPays" type="id" />
+    <item name="howPay" type="id" />
+</resources>
